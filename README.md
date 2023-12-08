@@ -1,10 +1,5 @@
 # ClassroomAverage
 
-
-
-
-
-
 <h3 align="center">Classroom Average Database Management System</h3>
 The purpose of this assignment is to build a basic web application for managing student grades. I used JavaScript to create, display, and update student data within an HTML table. Additionally, the application calculates and displays the classroom's average grade.
 
@@ -52,6 +47,6 @@ Test the web application to ensure correct functionality, including adding and m
 Simply open the `index.html` file in a web browser.
 
 ```bash
-// Run the project using Node.js
+// Run the project using the Node Package Manager 
 $ npm run start
 
