@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 30px;
+}
+
+#classroom-average {
+    font-size: 18px;
+    margin-bottom: 15px;
+}
+
+#student-table {
+    width: 33%;
+    border-collapse: collapse;
+    margin-top: 15px;
+}
+
+#student-table th, #student-table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+}
+
+#student-table th {
+    background-color: #1e63b7; /* Light Blue */
+    color: white;
+}
+
+#student-table tr:hover {
+    background-color: lightgray; /* Light Gray on Hover */
+}
+
+#student-table input {
+    width: 50px; /* Adjust the width as needed */
+}

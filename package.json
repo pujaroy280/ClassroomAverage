@@ -1,0 +1,13 @@
+{
+  "name": "classroom-average",
+  "version": "1.0.0",
+  "description": "The purpose of this assignment is to build a basic web application for managing student grades. I used JavaScript to create, display, and update student data within an HTML table. Additionally, the application calculates and displays the classroom's average grade.",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["calculateClassroomAverage, studentTable, studentData"],
+  "author": "Puja Roy",
+  "license": "ISC"
+}
