@@ -1,6 +1,8 @@
 # Classroom Average Web App
 This is a simple web application for managing student data and calculating the classroom average.
 
+URL to web page: https://pujaroy280.github.io/ClassroomAverage/
+
 
 <h3 align="center">Classroom Average Database Management System</h3>
 The purpose of this assignment is to build a basic web application for managing student grades. I used JavaScript to create, display, and update student data within an HTML table. Additionally, the application calculates and displays the classroom's average grade.
